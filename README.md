@@ -6,6 +6,14 @@ Back-end of users with notes about movies :movie_camera:
 
 Using express
 
+>
+> To **Run** the project: 
+>
+> First type the command `npm run migrate` to create the **database.db**
+>
+> Then type the command `npm run dev` to run the **nodemon**
+>
+
 ### End-points
 
 >
