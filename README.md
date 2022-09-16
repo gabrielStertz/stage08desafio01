@@ -1,4 +1,4 @@
-# Stage 08 Desafio 01 :rocket
+# Stage 08 Desafio 01 :rocket:
 
 ## Project with node.js
 
