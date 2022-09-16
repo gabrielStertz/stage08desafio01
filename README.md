@@ -9,6 +9,8 @@ Using express
 >
 > To **Run** the project: 
 >
+> First type the command `npm install` to install the **dependencies**
+>
 > First type the command `npm run migrate` to create the **database.db**
 >
 > Then type the command `npm run dev` to run the **nodemon**
