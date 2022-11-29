@@ -1,7 +1,7 @@
 {
   "name": "projeto_01",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Project with node.js",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
@@ -14,11 +14,21 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.18.1",
     "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
     "knex": "^2.3.0",
     "sqlite": "^4.1.2",
     "sqlite3": "^5.0.11"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielStertz/stage08desafio01.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gabrielStertz/stage08desafio01/issues"
+  },
+  "homepage": "https://github.com/gabrielStertz/stage08desafio01#readme"
 }
